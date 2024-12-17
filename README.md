@@ -4,7 +4,7 @@ A Flet-based background removal tool with modern interface - Modern arayüze sah
 
 # Background Remover Tool
 
-**ENGLISH | [TÜRKÇE](#arkaplan-kaldırıcı-araç)**
+**🇬🇧 ENGLISH | 🇹🇷 [TÜRKÇE](#arkaplan-kaldırıcı-araç)**
 
 A modern background remover tool built with **Flet** and **rembg**. This application allows users to upload an image, remove its background, and save the result.
 
